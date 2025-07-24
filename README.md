@@ -1,5 +1,10 @@
 # kikibot_2wd_car
 
+[kidsblock 다운로드](https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/download/)
+
+[앱 다운로드](https://play.google.com/store/apps/details?id=com.keyestudio.beetlecar&hl=en)
+
+
 <img src="https://github.com/copaland/kikibot_2wd_car/blob/main/mit_app/kikibot-img.png" title="2WD CAR CODING ROBOT" alt="KIKIBOT"></img><br/>
 <img src="https://github.com/copaland/kikibot_2wd_car/blob/main/mit_app/esp32_kikibot2.jpg" title="2WD CAR CODING ROBOT" alt="KIKIBOT"></img><br/>
 
