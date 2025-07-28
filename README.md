@@ -2,19 +2,26 @@
 
 ## 무선 조종 방법
 
-#### 1. 컴파일러 다운로드 설치
+### 1. 컴파일러 다운로드 설치
 [kidsblock 다운로드](https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/download/)
 
-KiKiBot_Block 폴더의 코드 다운로드  
+### 2. KiKiBot_Block 폴더의 코드 다운로드  
 PJ_8 초음파 센서 장애물 회피 주행  
 PJ_13 WIFI 앱 조종  
 
 [PJ_13_WiFi_Motor_Control.sb3](https://github.com/copaland/kikibot_2wd_car/blob/main/KiKiBot_Block/PJ_13_WiFi_Motor_Control.sb3)  
 
+### 3. 앱 다운로드 및 설치  
+
 [구글 플레이 스토어 앱 다운로드](https://play.google.com/store/apps/details?id=com.keyestudio.beetlecar&hl=en)
 
 [애플 앱스토어 앱 다운로드](https://apps.apple.com/ee/app/beetlebot/id1601167393)
 
+### 4. 사용 설명
+
+[사용 설명](https://github.com/copaland/kikibot_2wd_car/blob/main/kikibot%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85.pdf)  
+
+### 5. 이미
 <img src="https://github.com/copaland/kikibot_2wd_car/blob/main/mit_app/kikibot-img.png" title="2WD CAR CODING ROBOT" alt="KIKIBOT"></img><br/>
 <img src="https://github.com/copaland/kikibot_2wd_car/blob/main/mit_app/esp32_kikibot2.jpg" title="2WD CAR CODING ROBOT" alt="KIKIBOT"></img><br/>
 
