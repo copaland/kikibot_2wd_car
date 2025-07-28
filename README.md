@@ -7,8 +7,8 @@
 
 ### 2. KiKiBot_Block 폴더의 코드 다운로드  
 PJ_8 초음파 센서 장애물 회피 주행  
+[PJ_08_Avoid_Obstacles.sb3](https://github.com/copaland/kikibot_2wd_car/blob/main/KiKiBot_Block/PJ_08_Avoid_Obstacles.sb3)  
 PJ_13 WIFI 앱 조종  
-
 [PJ_13_WiFi_Motor_Control.sb3](https://github.com/copaland/kikibot_2wd_car/blob/main/KiKiBot_Block/PJ_13_WiFi_Motor_Control.sb3)  
 
 ### 3. 앱 다운로드 및 설치  
