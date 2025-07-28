@@ -1,7 +1,11 @@
 # kikibot_2wd_car
 
+## 무선 조종 방법
+
+#### 1. 컴파일러 다운로드 설치
 [kidsblock 다운로드](https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/download/)
 
+[PJ_13_WiFi_Motor_Control.sb3](https://github.com/copaland/kikibot_2wd_car/blob/main/KiKiBot_Block/PJ_13_WiFi_Motor_Control.sb3)
 [앱 다운로드](https://play.google.com/store/apps/details?id=com.keyestudio.beetlecar&hl=en)
 
 
