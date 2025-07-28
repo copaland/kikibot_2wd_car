@@ -19,7 +19,7 @@ PJ_13 WIFI 앱 조종
 
 ### 4. 사용 설명
 
-[사용 설명](https://github.com/copaland/kikibot_2wd_car/blob/main/kikibot%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85.pdf)  
+[KiKiBot 사용 설명](https://github.com/copaland/kikibot_2wd_car/blob/main/kikibot%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85.pdf)  
 
 ### 5. 이미
 <img src="https://github.com/copaland/kikibot_2wd_car/blob/main/mit_app/kikibot-img.png" title="2WD CAR CODING ROBOT" alt="KIKIBOT"></img><br/>
